@@ -1,0 +1,4 @@
+[setting option]
+{
+    AutoSave-time:60000;
+}

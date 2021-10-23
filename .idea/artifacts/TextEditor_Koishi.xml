@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextEditor-Koishi">
+    <output-path>$PROJECT_DIR$/out/artifacts/TextEditor_Koishi</output-path>
+    <root id="archive" name="TextEditor-Koishi.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
